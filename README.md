@@ -1,16 +1,27 @@
-<h1 align="center">👋 Hi there, I'm Tariku Mehdi</h1>
+<!-- Animated Gradient Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Tariku+Mehdi;Full+Stack+Software+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>Full Stack Software Developer</strong><br/>
-  Modern UI Designer | Node.js, React.js, Next.js, TypeScript |Laravel Specialist
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=fff"/>
+</div>
 
 ---
 
-🎯 **About Me**
+## 🎯 About Me
 
-I’m a Full Stack Software Developer passionate about building **scalable, robust, and modern digital solutions**.  
-I focus on transforming complex problems into beautiful, user-friendly applications with **React.js, Next.js, and TypeScript**.
+💡 I’m a **Full Stack Software Developer** passionate about crafting **scalable, modern solutions**.  
+💻 I transform complex problems into **beautiful, user-focused applications** with **React.js**, **Next.js**, **Node.js**, and **TypeScript**.  
+🎨 I love designing **modern UI interfaces** with gradients and liquid styles.
 
 ---
 
@@ -23,10 +34,10 @@ I focus on transforming complex problems into beautiful, user-friendly applicati
 <td align="center"><b>Languages</b></td>
 <td>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
 </tr>
@@ -35,11 +46,11 @@ I focus on transforming complex problems into beautiful, user-friendly applicati
 <td align="center"><b>Frameworks & Libraries</b></td>
 <td>
 
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
 </tr>
@@ -48,9 +59,9 @@ I focus on transforming complex problems into beautiful, user-friendly applicati
 <td align="center"><b>Databases</b></td>
 <td>
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
@@ -59,9 +70,9 @@ I focus on transforming complex problems into beautiful, user-friendly applicati
 <td align="center"><b>DevOps & Tools</b></td>
 <td>
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </td>
 </tr>
@@ -69,90 +80,72 @@ I focus on transforming complex problems into beautiful, user-friendly applicati
 <tr>
 <td align="center"><b>UI & Design</b></td>
 <td>
-Modern templates • Tailwind CSS • Material UI • Responsive layouts
+Tailwind CSS • Material UI • Responsive Layouts • Modern Templates
 </td>
 </tr>
 </table>
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+✅ **Already implemented and used in real environments.**
+
+- 🏘️ **[RESID - Residential Identification System](https://github.com/gittare)**  
+  ✔ React.js, Laravel, Tailwind CSS  
+  ✔ Secure authentication & advanced search  
+  ✔ Clean, liquid UI
+
+- 💳 **[Universal Payment Gateway](https://github.com/gittare)**  
+  ✔ API-first architecture for Stripe, Telebirr  
+  ✔ Fully extendable
+
+- 🧾 **[Water Billing System](https://github.com/gittare)**  
+  ✔ Smart dashboard, reports, responsive design
+
+- 🎙️ **[AI Podcast Clip Generator](https://github.com/gittare)**  
+  ✔ Next.js, TypeScript, AI workflows  
+  ✔ Auto social media clips
+
+- 🌐 **[SaaS Framework](https://github.com/gittare)**  
+  ✔ Laravel + Vue.js  
+  ✔ Complete subscription and user management
+
+👉 **Explore more on [my GitHub](https://github.com/gittare)**
+
+---
+
+## 🌈 What I Focus On
+
+✨ **Clean, animated, gradient interfaces**  
+✨ **Production-ready SaaS & APIs**  
+✨ **Modern UX & UI experiences**  
+✨ **Continuous learning & purposeful building**
 
 ---
 
 ## 🎓 Education
 
-- 📘 **MSc in Electronics and Communication Technology**  
-  Federal TVET Institute, Ethiopia
-- 🎓 **BSc in Electronics and Communication Technology**  
-  Federal TVET Institute, Ethiopia
-- 🛠️ **Advanced Diploma in Electricity**  
-  Wolkite Polytechnic College
-
----
-
-## 🚀 Projects
-
-✅ All projects below are **already implemented and used in real environments**.
-
-- **🏘️ [RESID - Residential Identification System](https://github.com/gittare)**  
-  A production-grade platform for managing residential identification records and property data.  
-  ✔ Built with **React.js, Laravel, Tailwind CSS**  
-  ✔ Secure authentication and advanced search  
-  ✔ Clean, modern UI
-
-- **💳 [Universal Payment Gateway](https://github.com/gittare)**  
-  Open-source library integrating multiple payment gateways (Stripe, Telebirr).  
-  ✔ API-first design  
-  ✔ Easily extendable for other providers
-
-- **🧾 [Water Billing System](https://github.com/gittare)**  
-  Smart dashboard for water billing, customer management, and reporting.  
-  ✔ Built for operational efficiency  
-  ✔ Responsive, intuitive interfaces
-
-- **🎙️ [AI Podcast Clip Generator](https://github.com/gittare)**  
-  Generates viral podcast snippets with captions automatically.  
-  ✔ Developed with **Next.js, TypeScript, AI workflows**  
-  ✔ Ready for social media distribution
-
-- **🌐 [SaaS Framework](https://github.com/gittare)**  
-  Complete SaaS boilerplate with subscriptions, user roles, and payment integration.  
-  ✔ Laravel & Vue.js  
-  ✔ Modern component architecture
-
-👉 See more projects on [my GitHub profile](https://github.com/gittare).
-
----
-
-## 🌟 What I Focus On
-
-✨ Building **modern, clean, responsive interfaces**  
-✨ Using **React.js, Next.js, Node.js, and TypeScript**  
-✨ Developing **production-ready SaaS and API systems**  
-✨ Delivering **professional UI/UX** with modern templates
+- 🎓 **MSc Electronics & Communication Technology** — Federal TVET Institute
+- 🎓 **BSc Electronics & Communication Technology** — Federal TVET Institute
+- 🛠️ **Advanced Diploma in Electricity** — Wolkite Polytechnic College
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** [cherufeta@gmail.com](cherufeta@gmail.com)
--  📱 **Phone:** +251 910 556161
+- ✉️ **Email:** [cherufeta@gmail.com](mailto:cherufeta@gmail.com)
+- 📱 **Phone:** +251 910 556161
 - 💼 **LinkedIn:** [linkedin.com/in/tarikumehdi](https://www.linkedin.com/in/tarikumehdi)
 - 🐦 **Twitter:** [@tarikumehdi](https://x.com/tarikuwisdom)
 
 ---
 
-## ✨ About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
 
-I love solving real-world problems with code and crafting software that **looks as good as it works**.  
-My philosophy: **Build with purpose, learn continuously, and deliver modern experiences users trust.**
+⭐ **Thanks for stopping by! Feel free to explore, connect, and collaborate.**
 
----
-
-## ⚡ Fun Fact
-
-> *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-⭐ **Thanks for visiting my GitHub! Feel free to explore, connect, and collaborate.**
