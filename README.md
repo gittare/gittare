@@ -123,9 +123,9 @@ Modern templates • Tailwind CSS • Material UI • Responsive layouts
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** tarikumehdi@example.com *(replace with your real email)*
-- 💼 **LinkedIn:** [linkedin.com/in/tarikumehdi](https://linkedin.com/in/tarikumehdi)
-- 🐦 **Twitter:** [@tarikumehdi](https://twitter.com/tarikumehdi)
+- 📧 **Email:** [cherufeta@gmail.com](cherufeta@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tarikumehdi](https://www.linkedin.com/in/tarikumehdi)
+- 🐦 **Twitter:** [@tarikumehdi](https://x.com/tarikuwisdom)
 
 ---
 
