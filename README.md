@@ -76,6 +76,18 @@ Modern templates • Tailwind CSS • Material UI • Responsive layouts
 
 </div>
 
+
+---
+
+## 🎓 Education
+
+- 📘 **MSc in Electronics and Communication Technology**  
+  Federal TVET Institute, Ethiopia
+- 🎓 **BSc in Electronics and Communication Technology**  
+  Federal TVET Institute, Ethiopia
+- 🛠️ **Advanced Diploma in Electricity**  
+  Wolkite Polytechnic College
+
 ---
 
 ## 🚀 Projects
@@ -124,6 +136,7 @@ Modern templates • Tailwind CSS • Material UI • Responsive layouts
 ## 📫 Get in Touch
 
 - 📧 **Email:** [cherufeta@gmail.com](cherufeta@gmail.com)
+-  📱 **Phone:** +251 910 556161
 - 💼 **LinkedIn:** [linkedin.com/in/tarikumehdi](https://www.linkedin.com/in/tarikumehdi)
 - 🐦 **Twitter:** [@tarikumehdi](https://x.com/tarikuwisdom)
 
