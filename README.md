@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack Software Developer</strong><br/>
-  Modern UI Designer | Node.js, React.js, Next.js, TypeScript Specialist
+  Modern UI Designer | Node.js, React.js, Next.js, TypeScript |Laravel Specialist
 </p>
 
 ---
