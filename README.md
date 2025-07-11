@@ -137,7 +137,7 @@ Tailwind CSS • Material UI • Responsive Layouts • Modern Templates
 ## 📫 Get in Touch
 
 - ✉️ **Email:** [cherufeta@gmail.com](mailto:cherufeta@gmail.com)
-- 📱 **Phone:** [+251 910 556161](callto:+251910556161)
+- 📱 **Phone:** [+251910556161](callto:+251910556161)
 - 💼 **LinkedIn:** [linkedin.com/in/tarikumehdi](https://www.linkedin.com/in/tarikumehdi)
 - 🐦 **Twitter:** [@tarikumehdi](https://x.com/tarikuwisdom)
 
