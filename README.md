@@ -1,6 +1,6 @@
 <!-- Animated Gradient Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Tari[...]"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Tari[...]
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/gittare">
-    <img src="https://img.shields.io/badge/Sponsor%20my%20Gugut%20AI%20projects-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor my Gugut AI projects" />
+    <img src="https://img.shields.io/badge/Sponsor%20Gugut%20AI-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Gugut AI" />
   </a>
 </p>
 
